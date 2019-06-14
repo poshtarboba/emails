@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Geometria';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://poshtarboba.github.com/emails/omg_2019-06/fnt/Geometria-Medium.woff) format('woff');
+}
+@font-face {
+  font-family: 'Geometria';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://poshtarboba.github.com/emails/omg_2019-06/fnt/Geometria-Heavy.woff) format('woff');
+}
