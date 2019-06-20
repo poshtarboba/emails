@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Geometria';
+  font-style: normal;
+  font-weight: 400;
+  src: url(Geometria-Medium.woff) format('woff');
+}
+@font-face {
+  font-family: 'Geometria';
+  font-style: normal;
+  font-weight: 700;
+  src: url(Geometria-Heavy.woff) format('woff');
+}
